@@ -1,0 +1,15 @@
+# Environments & Credentials
+.env
+*.env
+Backend/.env
+venv/
+Backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
